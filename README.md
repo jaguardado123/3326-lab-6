@@ -6,7 +6,7 @@ Same as the previous labs, you need to set up your workspace (class and main() m
 
 ## Let's get started!
 
-First, let's look at the name of our .java file in the src/ directory and name our class accordingly and remember to make it **public**. Next, **create your main() method inside your class**.
+First, let's look at the name of our .java file in the src/ directory and name your class accordingly and remember to make it **public**. Next, **create your main() method inside your class**.
 
 Now let's begin!
 
