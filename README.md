@@ -48,7 +48,7 @@ For more information on type casting in Java visit: https://www.w3schools.com/ja
 
 For this lab assignment I want you to practice working with comparison and Boolean/logical operators. 
 
-Give an example of each operator in a print() methond.
+Give an example of **each** operator in a print() method.
 
 **Example:**
 ```java
