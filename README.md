@@ -1,4 +1,4 @@
-# Lab Assignment 05
+# Lab Assignment 06
 
 In this lab you will practice working with Comparison & Boolean operators.
 
